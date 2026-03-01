@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+title>About - Amusement Park Blog</title>
+ 
+</head>
+<body>
+ <header>
+ <h1>About This Blog</h1>
+ <nav>
+ <a href="index.html">Home</a> |
+ <a href="about.html">About</a> |
+ 
+ </nav>
+ </header>
+ <h2>Welcome to My Amusement Park Blog!</h2>
+        <p>
+            This blog is all about the exciting world of amusement parks.
+            
+        </p>
+
+        <h2>Why I Created This Blog</h2>
+        <p>
+            I created this blog because I love exploring, and trying new things just for the fun of it.
+        </p>
+
+        <h2>What You’ll Find Here</h2>
+        <ul>
+            <li>Rides </li>
+            <li>Water slides</li>
+            <li>Food</li>
+            <li>Animals</li>
+        </ul>
+
+        <h2>About Me</h2>
+        <p>
+            Hi! My name is Portia. I’m enthusiastic about Amusement parks ,
+            and sharing my experiences with people.
+            Thanks for visiting my blog!
+        </p>
